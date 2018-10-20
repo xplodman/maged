@@ -14,7 +14,7 @@ include_once 'layout/modals.php';
 
             </div>
             <h3>Simple Messaging System</h3>
-            <p>Perfectly designed and precisely prepared simple message system to help you to contact with your mates privately and all your data and messages will be encrypted.
+            <p>Perfectly designed and precisely prepared simple message system to help you to contact with your mates privately and all your data and messages with be encrypted.
             </p>
             <p>Create account to see it in action.</p>
             <form class="m-t" role="form" action="php/check_register.php" method="post">
@@ -25,7 +25,7 @@ include_once 'layout/modals.php';
                     <input type="email" class="form-control" placeholder="email" name="user_email" required="">
                 </div>
                 <div class="form-group">
-                    <input type="text" class="form-control"  onkeyup="this.value = this.value.replace(/[^a-z]/, '')"  placeholder="User name" name="user_name" required="">
+                    <input type="text" class="form-control" placeholder="User name" name="user_name" required="">
                 </div>
                 <div class="form-group">
                     <input type="password" class="form-control" placeholder="Password" name="user_password" required="" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="at least one number and one uppercase and lowercase letter, and at least 8 or more characters">

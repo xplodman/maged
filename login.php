@@ -18,7 +18,7 @@ if (isset($_SESSION['maged_sms'])){
 
             </div>
             <h3>Simple Messaging System</h3>
-            <p>Perfectly designed and precisely prepared simple message system to help you to contact with your mates privately and all your data and messages will be encrypted.
+            <p>Perfectly designed and precisely prepared simple message system to help you to contact with your mates privately and all your data and messages with be encrypted.
             </p>
             <p>Login in. To see it in action.</p>
             <form class="m-t" role="form" action="php/check_login.php" method="post">

@@ -16,8 +16,7 @@ FROM
   users
 WHERE
   users.user_name = '$user_name' OR
-  users.user_nickname = '$user_nickname'OR
-  users.user_email = '$user_email'")or die(mysqli_error($con));
+  users.user_nickname = '$user_nickname'")or die(mysqli_error($con));
 if (mysqli_num_rows($search_for_user) == 0) {
 
     $insert_user = mysqli_query($con, "INSERT INTO `users` (`user_id`, `user_nickname`, `user_name`, `user_password`, `user_email`) VALUES (NULL, '$user_nickname', '$user_name', '$user_password', '$user_email');")or die(mysqli_error($con));
