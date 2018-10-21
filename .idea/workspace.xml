@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7811f435-16ee-4415-90c5-63a647c1b8cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email_templates/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont3e6e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont3e6e.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont3e6e.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont3e6e.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/angular-translate/angular-translate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/angular/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/bootstrap/ui-bootstrap-tpls-1.1.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/inspinia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/jquery/jquery-3.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/plugins/angular-idle/angular-idle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/plugins/jquery-ui/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/plugins/metisMenu/jquery.metisMenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/plugins/oclazyload/dist/ocLazyLoad.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/plugins/pace/pace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/plugins/slimscroll/jquery.slimscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/translations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/ui-router/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check_login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check_register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dump.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont3e6e.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/send_message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view_message.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/maged.iml" afterPath="$PROJECT_DIR$/.idea/maged.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/change_password.php" afterPath="$PROJECT_DIR$/change_password.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/modals.php" afterPath="$PROJECT_DIR$/layout/modals.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/topbar.php" afterPath="$PROJECT_DIR$/layout/topbar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/check_login.php" afterPath="$PROJECT_DIR$/php/check_login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/check_register.php" afterPath="$PROJECT_DIR$/php/check_register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/connection.php" afterPath="$PROJECT_DIR$/php/connection.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dump.php" afterPath="$PROJECT_DIR$/php/dump.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/forget_password.php" afterPath="$PROJECT_DIR$/php/forget_password.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
-    </list>
+    <list default="true" id="7811f435-16ee-4415-90c5-63a647c1b8cd" name="Default" comment="" />
     <ignored path="maged.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -189,12 +134,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539416600172</updated>
       <workItem from="1539416601416" duration="5203000" />
-      <workItem from="1540067867080" duration="134000" />
+      <workItem from="1540067867080" duration="283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5337000" />
+    <option name="totallyTimeSpent" value="5486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
