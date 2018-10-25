@@ -1,4 +1,8 @@
 <?php
+session_start();
+?>
+
+<?php
 include_once 'connection.php';
 include_once 'functions.php';
 $user_name=$_POST['user_name'];

@@ -18,7 +18,7 @@ if (isset($_SESSION['maged_sms'])){
 
             </div>
             <h3>Simple Messaging System</h3>
-            <p>Perfectly designed and precisely prepared simple message system to help you to contact with your mates privately and all your data and messages with be encrypted.
+            <p>Perfectly designed and precisely prepared simple message system to help you to contact with your mates privately and all your data and messages will be encrypted.
             </p>
             <p>Login in. To see it in action.</p>
             <form class="m-t" role="form" action="php/check_login.php" method="post">
@@ -110,6 +110,29 @@ if (isset($_SESSION['maged_sms'])){
                 "showMethod": "fadeIn",
                 "hideMethod": "fadeOut"
             }
+
+        <?php
+        }elseif($_GET['backresult']=='8'){
+        ?>
+            Command: toastr["error"]("Email or nickname is used before, if you already registred and you forget the password please use forget password in login page ...", "authentication error")
+
+        toastr.options = {
+            "closeButton": false,
+            "debug": false,
+            "newestOnTop": false,
+            "progressBar": true,
+            "positionClass": "toast-bottom-right",
+            "preventDuplicates": false,
+            "onclick": null,
+            "showDuration": "3000",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        }
 
         <?php
         }

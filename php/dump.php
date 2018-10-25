@@ -1,4 +1,5 @@
 <?php
+ob_start();
 include_once 'connection.php';
 $mysqlUserName      = "id7465941_root";
 $mysqlPassword      = "123!@#123";

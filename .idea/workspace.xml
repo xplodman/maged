@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7811f435-16ee-4415-90c5-63a647c1b8cd" name="Default" comment="" />
+    <list default="true" id="7811f435-16ee-4415-90c5-63a647c1b8cd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/change_password.php" afterPath="$PROJECT_DIR$/change_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/id7465941_maged.sql" afterPath="$PROJECT_DIR$/id7465941_maged.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/modals.php" afterPath="$PROJECT_DIR$/layout/modals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/topbar.php" afterPath="$PROJECT_DIR$/layout/topbar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/check_login.php" afterPath="$PROJECT_DIR$/php/check_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/check_register.php" afterPath="$PROJECT_DIR$/php/check_register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/connection.php" afterPath="$PROJECT_DIR$/php/connection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dump.php" afterPath="$PROJECT_DIR$/php/dump.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/forget_password.php" afterPath="$PROJECT_DIR$/php/forget_password.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/send_message.php" afterPath="$PROJECT_DIR$/php/send_message.php" />
+    </list>
     <ignored path="maged.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -83,7 +97,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../invest" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -135,11 +149,12 @@
       <updated>1539416600172</updated>
       <workItem from="1539416601416" duration="5203000" />
       <workItem from="1540067867080" duration="283000" />
+      <workItem from="1540402169665" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5486000" />
+    <option name="totallyTimeSpent" value="5523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
